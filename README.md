@@ -8,7 +8,7 @@
 - **LinkedIn**- [linkedin.com/in/ggonzalezhidalgo/](https://www.linkedin.com/in/ggonzalezhidalgo/)
 
 ## Profile
- Full-Stack Developer with 2 years of experience, I specialise in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design.
+ Full-Stack Developer with 2 years of experience, I specialise in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
 
  ## Skills & Tooling
  
