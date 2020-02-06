@@ -16,7 +16,8 @@
  - JavaScript.
  - TypeScript.
  - J2EE.
- - CSS, LESS, Sass.
+ - HTML5.
+ - CSS3, Sass (SCSS).
 
  ### Tools & Frameworks
  - Node.js, Express.js, NPM.
