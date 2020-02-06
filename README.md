@@ -49,7 +49,7 @@ Other skills and duties include:
 
 _February 2017 - May 2017_
 
-Day-to-day activities range from realize quality assurance tests for internal company software. Other skills and duties include:
+Day-to-day activities was realize quality assurance tests for internal company software. Other skills and duties include:
 
 - Technical help for company workers with the computer, printer, etc.
 - Software tracking meetings.
