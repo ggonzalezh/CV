@@ -39,8 +39,8 @@ _June 2018 - Present_
 Day-to-day activities range from building hybrid/web applications, managing client expectations and supervising the development side of the project life cycle.
 Other skills and duties include:
 
-- Configure the work environment in the projects.
-- Create integration pieces for Oracle Siebel CRM
+- Configure the work environment for the projects.
+- Create differents SOAP Services (integration) for the right behavior when Oracle Siebel CRM will need it.
 - Instated JavaScript integration tests as part of the deployment process for a number of projects.
 
 ## Career history
