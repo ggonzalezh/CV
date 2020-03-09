@@ -1,6 +1,6 @@
 # Guillermo González
 
-**Full-Stack Developer**
+**Software Developer**
 
 ## Santiago, Chile
 - **Email** - [hello@ggonzalezh.dev](mailto:hello@ggonzalezh.dev)
@@ -9,7 +9,7 @@
 - **Website** - [ggonzalezh.dev](https://ggonzalezh.dev)
 
 ## Profile
- Full-Stack Developer with 2 years of experience, I specialise in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
+ Software Developer with 2 years of experience, I specialize in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
 
  ## Skills & Tooling
  
@@ -40,7 +40,7 @@ Day-to-day activities range from building hybrid/web applications, managing clie
 Other skills and duties include:
 
 - Configure the work environment in the projects.
-- Create integration pieces for Oracle Siebel CRM.
+- Create integration pieces for Oracle Siebel CRM
 - Instated JavaScript integration tests as part of the deployment process for a number of projects.
 
 ## Career history
