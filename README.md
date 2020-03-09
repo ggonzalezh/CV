@@ -1,14 +1,14 @@
 # Guillermo González
 
-**Full-Stack Developer**
+**Software Developer**
 
 ## Santiago, Chile
-- **Email** - [ggonzalezh15@gmail.com](mailto:ggonzalezh15@gmail.com)
+- **Email** - [hello@ggonzalezh.dev](mailto:hello@ggonzalezh.dev)
 - **Github** - [github.com/ggonzalezh](https://github.com/ggonzalezh)
 - **LinkedIn**- [linkedin.com/in/ggonzalezhidalgo/](https://www.linkedin.com/in/ggonzalezhidalgo/)
 
 ## Profile
- Full-Stack Developer with 2 years of experience, I specialise in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
+ Software Developer with 2 years of experience, I specialise in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
 
  ## Skills & Tooling
  
@@ -21,7 +21,8 @@
 
  ### Tools & Frameworks
  - Node.js, Express.js, NPM.
- - Angular.js, Angular 2+, React.js.
+ - Angular.js, Angular 2+.
+ - React.js.
  - Bootstrap.
  - Git, SVN.
  - Spring Boot, Maven, Apache Ant, Apache Ivy.
@@ -31,7 +32,7 @@
 ## Current position
 
 ### ActiveIT - Santiago, Chile
-**Consultant TI & Full-Stack Developer**
+**Full-Stack Developer**
 
 _June 2018 - Present_
 
