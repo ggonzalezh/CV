@@ -9,7 +9,7 @@
 - **Website** - [ggonzalezh.dev](https://ggonzalezh.dev)
 
 ## Profile
- Software Developer with 2 years of experience, I specialize in development of web applications with a  special attention to best practices. I am passionate about engaging in the community projects and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
+ Software Developer with 2 years of experience, I specialize in development of web applications with special attention in good practices. I am passionate about engaging in community projects and following the always-evolving web landscape, particularly with regards in emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
 
  ## Skills & Tooling
  
@@ -37,12 +37,11 @@
 
 _June 2018 - Present_
 
-Day-to-day activities range from building hybrid/web applications, managing client expectations and supervising the development side of the project life cycle.
-Other skills and duties include:
+Day-to-day activities include building hybrid/web applications, managing client expectations and supervising the development side of the project's life cycle. Other skills and duties include:
 
 - Configure the work environment for the projects.
 - Instated JavaScript integration tests as part of the deployment process for a number of projects.
-- Particepated in daily SCRUM standups and developed through multiple sprint.
+- Participated in daily SCRUM standups and developed through multiple sprints.
 - Developed and deployed REST-SOAP Services with Express.js-Spring Boot.
 - Developed and deployed Front-end with multiple technologies including Angular.js, Angular 2+, React.js.
 
@@ -55,7 +54,7 @@ Other skills and duties include:
 
 _February 2017 - May 2017_
 
-Day-to-day activities was realize quality assurance tests for internal company software. Other skills and duties include:
+Day-to-day activities consisted on quality assurance tests for internal company software. Other skills and duties include:
 
 - Technical help for company workers with the computer, printer, etc.
 - Software tracking meetings.
@@ -83,11 +82,3 @@ Day-to-day activities was realize quality assurance tests for internal company s
 _March 2014 - December 2017_
 
 Graduated from Duoc UC in computer programmer analyst career.
-
-### Liceo Particular Insume - Santiago, Chile
-
-**Primary & Secondary**
-
-_2002 - 2013_
-
-Graduated from primary and secondary education.
