@@ -5,7 +5,6 @@
 ## Santiago, Chile
 - **Email** - [hello@ggonzalezh.dev](mailto:hello@ggonzalezh.dev)
 - **Github** - [ggonzalezh](https://github.com/ggonzalezh)
-- **LinkedIn** - [ggonzalezhidalgo](https://www.linkedin.com/in/ggonzalezhidalgo/)
 - **Website** - [ggonzalezh.dev](https://ggonzalezh.dev)
 
 ## Profile
@@ -40,11 +39,12 @@ _June 2018 - Present_
 Day-to-day activities include building hybrid/web applications, managing client expectations and supervising the development side of the project's life cycle. Projects and technologies in which I was involved:
 
 - **SII**: EOI, Upgrade Look & Feels - Angular 1.7.
+- **SII**: Modelo C, Angular 1.7, RESTEasy + Spring, Oracle 11g.
 - **SII**: RAF-RAV, Angular 1.7, RESTEasy + Spring, GWT, Oracle 11g.
 - **SII**: APP e-Contribuciones, Ionic 4 (Angular 7), RESTEasy + Spring, Oracle 11g.
 - **TBK**: "Amortiguador", Siebel IP18 Migration, SpringBoot + Spring-WS.
 - **Sodimac**: BUC, Microservices, TypeScript, Node.js + Express.js.
-- **SII**: "Responsabilidades Tributarias", Angular 1.7, RESTEasy + Spring, Oracle 11g.(Technical leader)
+- **SII**: "Responsabilidades Tributarias", Angular 1.7, RESTEasy + Spring, Oracle 11g. (Technical leader)
 
 Other skills and duties include:
 
