@@ -37,14 +37,15 @@
 
 _June 2018 - Present_
 
-Day-to-day activities include building hybrid/web applications, managing client expectations and supervising the development side of the project's life cycle. Other skills and duties include:
+Day-to-day activities include building hybrid/web applications, managing client expectations and supervising the development side of the project's life cycle. Projects and technologies in which I was involved:
+
+
+
+Other skills and duties include:
 
 - Configure the work environment for the projects.
 - Instated JavaScript integration tests as part of the deployment process for a number of projects.
 - Participated in daily SCRUM standups and developed through multiple sprints.
-- Developed and deployed REST-SOAP Services with Express.js-Spring Boot.
-- Developed and deployed Front-end with multiple technologies including Angular.js, Angular 2+, React.js.
-
 
 ## Career history
 
