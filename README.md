@@ -78,7 +78,7 @@ Day-to-day activities consisted on quality assurance tests for internal company 
 
 ### [RokitaBOT Website](https://github.com/ggonzalezh/rokitabot-web)
 
-- Website for [RokitaBOT](https://github.com/ggonzalezh/rokita-bot) using [Angular](https://angular.io/).
+- Website for [RokitaBOT](https://github.com/ggonzalezh/rokita-bot).
 
 ### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
 
