@@ -66,9 +66,11 @@ Otras habilidades y obligaciones:
 
 _Febrero 2017 - Mayo 2017_
 
-Las actividades del día a día consistían en crear pruebas de aseguramiento de calidad para un software que la empresa tenía en desarrollo y asistir a reuniones de seguimiento del desarrollo de la aplicación.
+Las actividades del día a día consistían en:
+- Crear pruebas de aseguramiento de calidad para un software que la empresa tenía en desarrollo.
+- Asistir a reuniones de seguimiento del desarrollo de la aplicación.
 
-Otras habilidades y obligaciones: 
+Otras obligaciones:
 
 - Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
 
