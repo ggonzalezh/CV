@@ -70,7 +70,7 @@ Las actividades del día a día consistían en crear pruebas de aseguramiento de
 
 Otras habilidades y obligaciones: 
 
-Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
+- Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
 
 ## Proyectos Personales
 
