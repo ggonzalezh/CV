@@ -20,7 +20,7 @@ Desarrollador de software con 2 años de experiencia, especializado en el desarr
 - TypeScript.
 - J2EE.
 - HTML5.
-- CSS3, Sass (SCSS).
+- CSS.
 
 ### Herramientas y Frameworks
  
@@ -51,7 +51,7 @@ Proyectos y tecnologías en los cuales he estado involucrado:
 - **SII**: APP e-Contribuciones - Ionic 4 (Angular 7), RESTEasy + Spring, Apache Camel, Oracle 11g.
 - **TBK**: "Amortiguador" - Siebel IP18 Migration, SpringBoot + Spring-WS.
 - **Sodimac**: "BUC" - Microservicios, TypeScript, Node.js + Express.js.
-- **SII**: "Responsabilidades Tributarias" - Angular 1.7, RESTEasy + Spring, Oracle 11g. (Líder técnico)
+- **SII**: "Responsabilidades Tributarias" - Angular 1.7, RESTEasy + Spring, Oracle 11g.
 
 Otras habilidades y obligaciones: 
 
