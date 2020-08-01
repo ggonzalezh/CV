@@ -25,12 +25,10 @@ Software Developer with 2 years of experience, I specialize in development of we
 ### Tools & Frameworks
  
 - Node.js, Express.js, NPM.
-- Angular.js, Angular 2+.
-- React.js.
+- Angular 2+, React.js.
 - Bootstrap.
 - Git.
 - Spring Boot, Maven.
-- Ionic 4.
 - MongoDB, SQL Oracle.
 
 ## Current position
@@ -49,7 +47,7 @@ Day-to-day activities include building hybrid/web applications, managing client 
 - **SII**: APP e-Contribuciones, Ionic 4 (Angular 7), RESTEasy + Spring, Apache Camel, Oracle 11g.
 - **TBK**: "Amortiguador", Siebel IP18 Migration, SpringBoot + Spring-WS.
 - **Sodimac**: BUC, Microservices, TypeScript, Node.js + Express.js.
-- **SII**: "Responsabilidades Tributarias", Angular 1.7, RESTEasy + Spring, Oracle 11g. (Technical leader)
+- **SII**: "Responsabilidades Tributarias", Angular 1.7, RESTEasy + Spring, Oracle 11g.
 
 Other skills and duties include:
 
