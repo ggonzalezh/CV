@@ -25,12 +25,10 @@ Desarrollador de software con 2 años de experiencia, especializado en el desarr
 ### Herramientas y Frameworks
  
 - Node.js, Express.js, NPM.
-- Angular.js, Angular 2+.
-- React.js.
+- Angular 2+, React.js.
 - Bootstrap.
 - Git.
 - Spring Boot, Maven.
-- Ionic 4.
 - MongoDB, SQL Oracle.
 
 ## Cargo Actual
