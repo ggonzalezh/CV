@@ -86,11 +86,11 @@ Otras obligaciones:
 
 ### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
 
-- [Bot de Twitter](https://twitter.com/WingzBOT) creado con la librería [twit](https://www.npmjs.com/package/twit)
+- [Bot de Twitter](https://twitter.com/WingzBOT) creado con la librería [Twit](https://www.npmjs.com/package/twit)
 
 ### [Pagina Web Personal](https://ggonzalezh.dev)
 
-- Pagina .dev personal creada con el fin de ser carta de presentación
+- Pagina .dev de presentación.
 
 ## Educación
 
