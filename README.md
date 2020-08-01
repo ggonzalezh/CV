@@ -20,7 +20,7 @@ Software Developer with 2 years of experience, I specialize in development of we
 - TypeScript.
 - J2EE.
 - HTML5.
-- CSS3, Sass (SCSS).
+- CSS.
 
 ### Tools & Frameworks
  
