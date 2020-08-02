@@ -74,9 +74,9 @@ Day-to-day activities consisted on quality assurance tests for internal company 
 
 - [Discord bot](https://discordapp.com/oauth2/authorize?client_id=414719351338565632&scope=bot) created with [Discord.js](https://discord.js.org/#/)
 
-### [RokitaBOT Website](https://github.com/ggonzalezh/rokitabot-web)
+### [RokitaBOT Website](https://rokitabot-cfc7e.web.app/)
 
-- Website for [RokitaBOT](https://rokitabot-cfc7e.web.app/).
+- Website for [RokitaBOT](https://github.com/ggonzalezh/rokita-bot).
 
 ### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
 
