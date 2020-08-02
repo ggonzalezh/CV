@@ -78,9 +78,9 @@ Otras obligaciones:
 
 - [Bot de Discord](https://discordapp.com/oauth2/authorize?client_id=414719351338565632&scope=bot) creado con la librería [Discord.js](https://discord.js.org/#/)
 
-### [RokitaBOT Website](https://github.com/ggonzalezh/rokitabot-web)
+### [RokitaBOT Website](https://rokitabot-cfc7e.web.app/)
 
-- Página web de [RokitaBOT](https://rokitabot-cfc7e.web.app/)
+- Página web de [RokitaBOT](https://github.com/ggonzalezh/rokita-bot)
 
 ### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
 
