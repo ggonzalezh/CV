@@ -80,7 +80,7 @@ Otras obligaciones:
 
 ### [RokitaBOT Website](https://github.com/ggonzalezh/rokitabot-web)
 
-- Pagina web de [RokitaBOT](https://github.com/ggonzalezh/rokita-bot)
+- Página web de [RokitaBOT](https://rokitabot-cfc7e.web.app/)
 
 ### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
 
