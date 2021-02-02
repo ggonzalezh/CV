@@ -7,6 +7,7 @@
 - **Email** - [hello@ggonzalezh.dev](mailto:hello@ggonzalezh.dev)
 - **Github** - [ggonzalezh](https://github.com/ggonzalezh)
 - **Pagina Web** - [ggonzalezh.dev](https://ggonzalezh.dev)
+- **Linkedin** - [ggonzalezhidalgo](https://www.linkedin.com/in/ggonzalezhidalgo/)
 
 ## Perfil
 
@@ -16,28 +17,46 @@ Desarrollador de software con 2 años de experiencia, especializado en el desarr
  
 ### Lenguajes
  
-- JavaScript.
-- TypeScript.
-- J2EE.
-- HTML5.
-- CSS.
+- JavaScript
+- TypeScript
+- Python
+- J2EE
 
 ### Herramientas y Frameworks
  
-- Node.js, Express.js, NPM.
-- Angular 2+, React.js.
-- Bootstrap.
-- Git.
-- Spring Boot, Maven.
-- MongoDB, SQL Oracle.
+- Node.js, Express.js, NPM/Yarn
+- Angular 2+, React.js
+- Flask
+- Git
+- Spring Boot
+- MongoDB, SQL Oracle
 
 ## Cargo Actual
+
+### RokketLabs - Santiago, Chile
+
+**Desarrollador Full-Stack**
+
+_Noviembre 2020 - Actualidad_
+
+Las actividades del día a día consisten en el desarrollo de distintos módulos de Frontend y Backend, principalmente con MERN Stack. Creación de Tests para asegurar la calidad del software, Revisión de código entre miembros del equipo.
+
+Proyectos y tecnologías en los cuales he estado involucrado:
+
+- **LATAM**: Embarque biométrico de pasajeros - Python 3 + Flask, OpenCV, Tensorflow, Node.js + Express.js, React.js, MongoDB.
+
+Otras habilidades y obligaciones: 
+
+- Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
+
+
+## Cargos Anteriores
 
 ### ActiveIT - Santiago, Chile
 
 **Desarrollador Full-Stack**
 
-_Junio 2018 - Actualidad_
+_Junio 2018 - Octubre 2020_
 
 Las actividades del día a día consisten en el desarrollo de aplicaciones web/hibridas, gestionar las expectativas del cliente de cara al proyecto, supervisar el código del desarrollo del equipo y el ciclo de vida de este.
 
@@ -56,7 +75,6 @@ Otras habilidades y obligaciones:
 - Configurar los ambiente de trabajo para los proyectos.
 - Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
 
-## Cargos Anteriores
 
 ### Econssa Chile S.A. - Santiago, Chile
 
