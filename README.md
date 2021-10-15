@@ -11,7 +11,7 @@
 
 ## Perfil
 
-Desarrollador de software con 2 años de experiencia, especializado en el desarrollo de aplicaciones web con especial atención en las buenas practicas. Me apasionan los proyectos comunitarios o de código abierto y el seguimiento de la evolución del panorama web, particularmente con respecto a las tecnologías emergentes, usabilidad y diseño. Soy una persona autodidacta, cuyo objetivo es el constante aprendizaje y mejora en el uso de las herramientas de desarrollo que están en la vanguardia.
+Desarrollador de software con 3 años de experiencia, especializado en el desarrollo de aplicaciones web con especial atención en las buenas practicas. Me apasionan los proyectos comunitarios o de código abierto y el seguimiento de la evolución del panorama web, particularmente con respecto a las tecnologías emergentes, usabilidad y diseño. Soy una persona autodidacta, cuyo objetivo es el constante aprendizaje y mejora en el uso de las herramientas de desarrollo que están en la vanguardia.
 
 ## Conocimientos y Habilidades
  
@@ -20,18 +20,36 @@ Desarrollador de software con 2 años de experiencia, especializado en el desarr
 - JavaScript
 - TypeScript
 - Python
-- J2EE
 
 ### Herramientas y Frameworks
- 
-- Node.js, Express.js, NPM/Yarn
-- Angular 2+, React.js
-- Flask
-- Git
-- Spring Boot
-- MongoDB, SQL Oracle
+
+- Node.js, Express.js, NestJS
+- npm, Yarn.
+- Flask, Django.
+- React.js, Vue.js.
+- Git.
+- MongoDB, SQL Oracle.
 
 ## Cargo Actual
+
+### Mobdev - Santiago, Chile
+
+**Desarrollador Full-Stack**
+
+_March 2021 - Actual_
+
+Las actividades diarias consisten en el desarrollo de diferentes componentes Back-end y Front-end y el desarrollo de diferentes pruebas para estos. También formo parte del equipo de innovación, donde buscamos constantemente nuevas tecnologías y desarrollamos pequeños experimentos para probarlas.
+
+Proyectos y tecnologías en los cuales he estado involucrado:
+- **Scotiabank**: Avatar - React.js
+- **Scotiabank**: ScotiaLevels - React.js + NestJS + MongoDB.
+
+Otras habilidades y obligaciones:
+- Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
+- Desarrollo de pequeños proyectos como experimentos de tecnología.
+- Desarrollo CI/CD de los experimentos.
+
+## Cargos Anteriores
 
 ### RokketLabs - Santiago, Chile
 
@@ -39,18 +57,15 @@ Desarrollador de software con 2 años de experiencia, especializado en el desarr
 
 _Noviembre 2020 - Actualidad_
 
-Las actividades del día a día consisten en el desarrollo de distintos módulos de Frontend y Backend, principalmente con MERN Stack. Creación de Tests para asegurar la calidad del software, Revisión de código entre miembros del equipo.
+Las actividades del día a día consisten en el desarrollo de distintos módulos de Front-end y Back-end, principalmente con M.E.R.N Stack. Creación de Tests para asegurar la calidad del software, Revisión de código entre miembros del equipo.
 
 Proyectos y tecnologías en los cuales he estado involucrado:
 
-- **LATAM**: Embarque biométrico de pasajeros - Python 3 + Flask, OpenCV, Tensorflow, Node.js + Express.js, React.js, MongoDB.
+- **LATAM Airlines**: Embarque biométrico - Python 3 + Flask, OpenCV, Tensorflow, Node.js + Express.js, React.js, MongoDB.
 
-Otras habilidades y obligaciones: 
+Otras habilidades y obligaciones:
 
 - Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
-
-
-## Cargos Anteriores
 
 ### ActiveIT - Santiago, Chile
 
@@ -75,21 +90,6 @@ Otras habilidades y obligaciones:
 - Configurar los ambiente de trabajo para los proyectos.
 - Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
 
-
-### Econssa Chile S.A. - Santiago, Chile
-
-**Practica Profesional**
-
-_Febrero 2017 - Mayo 2017_
-
-Las actividades del día a día consistían en:
-- Crear pruebas de aseguramiento de calidad para un software que la empresa tenía en desarrollo.
-- Asistir a reuniones de seguimiento del desarrollo de la aplicación.
-
-Otras obligaciones:
-
-- Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
-
 ## Proyectos Personales
 
 ### [RokitaBOT](https://github.com/ggonzalezh/rokita-bot)
@@ -99,10 +99,6 @@ Otras obligaciones:
 ### [RokitaBOT Website](https://rokitabot-cfc7e.web.app/)
 
 - Página web de [RokitaBOT](https://github.com/ggonzalezh/rokita-bot)
-
-### [WingzBOT](https://github.com/ggonzalezh/wingz-bot)
-
-- [Bot de Twitter](https://twitter.com/WingzBOT) creado con la librería [Twit](https://www.npmjs.com/package/twit)
 
 ### [Pagina Web Personal](https://ggonzalezh.dev)
 
