@@ -11,7 +11,7 @@
 
 ## Profile
 
-Software Developer with 3 years of experience, I specialize in development of web applications with special attention in good practices. I am passionate about engaging in community projects and following the always-evolving web landscape, particularly with regards in emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
+Software Developer with 4 years of experience, I specialize in development of web applications with special attention in good practices. I am passionate about engaging in community projects and following the always-evolving web landscape, particularly with regards in emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement.
 
 ## Skills & Tooling
  
@@ -44,6 +44,7 @@ Projects and technologies in which I was involved:
 
 - **Scotiabank**: Avatar - React.js
 - **Scotiabank**: ScotiaLevels - React.js + NestJS + MongoDB.
+- **Scotiabank**: Credit-Advance - React.js.
 
 Other skills and duties include:
 
@@ -77,8 +78,7 @@ _June 2018 - October 2020_
 Day-to-day activities include building hybrid/web applications, managing client expectations and supervising the development side of the project's life cycle. 
 
 Projects and technologies in which I was involved:
-- **SII**: EOI, Upgrade Look & Feels - Angular 1.7.
-- **SII**: Modelo C, Angular 1.7, RESTEasy + Spring, Oracle 11g.
+
 - **SII**: RAF-RAV, Angular 1.7, RESTEasy + Spring, GWT, Oracle 11g.
 - **SII**: APP e-Contribuciones, Ionic 4 (Angular 7), RESTEasy + Spring, Apache Camel, Oracle 11g.
 - **TBK**: "Amortiguador", Siebel IP18 Migration, SpringBoot + Spring-WS.
