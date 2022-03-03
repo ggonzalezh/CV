@@ -11,7 +11,7 @@
 
 ## Perfil
 
-Desarrollador de software con 3 años de experiencia, especializado en el desarrollo de aplicaciones web con especial atención en las buenas practicas. Me apasionan los proyectos comunitarios o de código abierto y el seguimiento de la evolución del panorama web, particularmente con respecto a las tecnologías emergentes, usabilidad y diseño. Soy una persona autodidacta, cuyo objetivo es el constante aprendizaje y mejora en el uso de las herramientas de desarrollo que están en la vanguardia.
+Desarrollador de software con 4 años de experiencia, especializado en el desarrollo de aplicaciones web con especial atención en las buenas practicas. Me apasionan los proyectos comunitarios o de código abierto y el seguimiento de la evolución del panorama web, particularmente con respecto a las tecnologías emergentes, usabilidad y diseño. Soy una persona autodidacta, cuyo objetivo es el constante aprendizaje y mejora en el uso de las herramientas de desarrollo que están en la vanguardia.
 
 ## Conocimientos y Habilidades
  
@@ -38,16 +38,17 @@ Desarrollador de software con 3 años de experiencia, especializado en el desarr
 
 _March 2021 - Actual_
 
-Las actividades diarias consisten en el desarrollo de diferentes componentes Back-end y Front-end y el desarrollo de diferentes pruebas para estos. También formo parte del equipo de innovación, donde buscamos constantemente nuevas tecnologías y desarrollamos pequeños experimentos para probarlas.
+Las actividades diarias consisten en el desarrollo de diferentes componentes Back-end, Front-end y el desarrollo de diferentes pruebas para estos. También formo parte del equipo de innovación, donde buscamos constantemente nuevas tecnologías y desarrollamos pequeños experimentos para probarlas.
 
 Proyectos y tecnologías en los cuales he estado involucrado:
 - **Scotiabank**: Avatar - React.js
 - **Scotiabank**: ScotiaLevels - React.js + NestJS + MongoDB.
+- **Scotiabank**: Avance de Credito - React.js
 
 Otras habilidades y obligaciones:
 - Participar a diario en reuniones SCRUM y crear objetivos de desarrollo en múltiples sprints.
-- Desarrollo de pequeños proyectos como experimentos de tecnología.
-- Desarrollo CI/CD de los experimentos.
+- Desarrollo de pequeños proyectos como experimentos de tecnologías.
+- Desarrollo CI/CD.
 
 ## Cargos Anteriores
 
@@ -77,8 +78,6 @@ Las actividades del día a día consisten en el desarrollo de aplicaciones web/h
 
 Proyectos y tecnologías en los cuales he estado involucrado:
 
-- **SII**: EOI - Actualización de Look & Feels - Angular 1.7.
-- **SII**: Modelo C - Angular 1.7, RESTEasy + Spring, Oracle 11g.
 - **SII**: RAF-RAV - Angular 1.7, RESTEasy + Spring, GWT, Oracle 11g.
 - **SII**: APP e-Contribuciones - Ionic 4 (Angular 7), RESTEasy + Spring, Apache Camel, Oracle 11g.
 - **TBK**: "Amortiguador" - Siebel IP18 Migration, SpringBoot + Spring-WS.
@@ -94,7 +93,7 @@ Otras habilidades y obligaciones:
 
 ### [RokitaBOT](https://github.com/ggonzalezh/rokita-bot)
 
-- [Bot de Discord](https://discordapp.com/oauth2/authorize?client_id=414719351338565632&scope=bot) creado con la librería [Discord.js](https://discord.js.org/#/)
+- [BOT de Discord](https://discordapp.com/oauth2/authorize?client_id=414719351338565632&scope=bot) creado con la librería [Discord.js](https://discord.js.org/#/)
 
 ### [RokitaBOT Website](https://rokitabot-cfc7e.web.app/)
 
